@@ -9,3 +9,7 @@ Kas daroma:
 5) Braižomas efektyuvmo frontas iš dviejų aktyvų
 6) Konstruojamas minimalios rizikos, maksimalaus Sharpe koeficiento, maksimalaus Sortino koeficiento, fiksuotos grąžos portfeliai
 7) Atliekama portfelių ir akcijų analizė
+
+Naudojamas įmonių akcijos:
+
+JP Morgan, Oracle, Walmart, Exxonmobil
