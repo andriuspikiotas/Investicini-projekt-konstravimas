@@ -1,4 +1,4 @@
-Projektas - Investicinių portfelių konstavimas, remiantis Markowitz teorija
+Projektas - Investicinių portfelių konstravimas, remiantis Markowitz teorija
 
 Kas daroma:
 
